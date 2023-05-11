@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 CODINGRAD DEVOPS-JENKINS PROJECT</a>
+		<a class="navbar-brand" href="#">CODINGRAD DEVOPS-JENKINS CI/CD-PROJECT</a>
 	</div>
   </div>
 </nav>
